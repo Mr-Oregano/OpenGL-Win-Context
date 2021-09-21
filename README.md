@@ -3,5 +3,6 @@ OpenGL context creation is platform dependent. On Windows you use `wglCreateCont
 
 Window events and management is handled with WinAPI.
 
-References:
+### References
+
  - https://www.khronos.org/opengl/wiki/Creating_an_OpenGL_Context_(WGL)
